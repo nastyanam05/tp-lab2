@@ -4,9 +4,12 @@
 1. Создала пустой репозиторий на github.com под названием «tp-lab2»
 2. Выполняю инструкцию по созданию первого коммита на странице репозитория
 
-В файл README.md ввожу текст echo "# TP-lab02" >> README.md 
-Инициализирую git init 
-Добавляю README.md git add README.md
+В файл README.md ввожу текст 
+> echo "# TP-lab02" >> README.md 
+Инициализирую 
+> git init 
+Добавляю README.md 
+> git add README.md
 Делаю коммит git commit -m "first commit"
 Создаю ветку main git branch -M main
 Привязываюсь к репозиторию git remote add origin
